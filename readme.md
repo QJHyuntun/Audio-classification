@@ -105,7 +105,7 @@ dataset = PathologicalSpeechDataset(
 
 ## 6. 训练
 
-训练脚本：`train_fusion.py`  
+完整训练脚本：`train_all.py`  
 
 ### 6.1 配置参数
 
